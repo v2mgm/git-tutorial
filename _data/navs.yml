@@ -1,1 +1,203 @@
 root:
+  - title: Intro
+    sub:
+      - title: What is Git
+        id: TgGCfRY
+        url: 2022/11/01/What-is-Git.html
+      - title: Using Git
+        id: FnXwrsA
+        url: 2022/11/07/Using-Git.html
+      - title: Installing Git
+        id: AlXFzLP
+        url: 2022/11/07/Installing-Git.html
+      - title: Configuring Git
+        id: pucOYnE
+        url: 2022/11/07/Configuring-Git.html
+  - title: Creating Snapshots
+    sub:
+      - title: Initializing a Repository
+        id: ppZAFgu
+        url: 2022/11/07/Initializing-a-Repository.html
+      - title: Git Workflow
+        id: OoATRZG
+        url: 2022/11/07/Git-Workflow.html
+      - title: Staging Files
+        id: VCDyEPw
+        url: 2022/11/08/Staging-Files.html
+      - title: Committing Changes
+        id: VVsOYHt
+        url: 2022/11/08/Committing-Changes.html
+      - title: Committing Best Practices
+        id: emKqANB
+        url: 2022/11/08/Committing-Best-Practices.html
+      - title: Skipping the Staging Area
+        id: FFJYYDr
+        url: 2022/11/08/Skipping-the-Staging-Area.html
+      - title: Removing Files
+        id: OIQOINI
+        url: 2022/11/08/Removing-Files.html
+      - title: Renaming or Moving Files
+        id: oGqIstA
+        url: 2022/11/08/Renaming-or-Moving-Files.html
+      - title: Ignoring Files
+        id: auqpybX
+        url: 2022/11/08/Ignoring-Files.html
+      - title: Short Status
+        id: gtnfUZT
+        url: 2022/11/08/Short-Status.html
+      - title: Viewing Staged and Unstaged Changes
+        id: brZtDeP
+        url: 2022/11/08/Viewing-Staged-and-Unstaged-Changes.html
+      - title: Visual Diff Tools
+        id: DoEiVvX
+        url: 2022/11/08/Visual-Diff-Tools.html
+      - title: Viewing History
+        id: zTuaIyM
+        url: 2022/11/08/Viewing-History.html
+      - title: Viewing a Commit
+        id: aUwzWgK
+        url: 2022/11/08/Viewing-a-Commit.html
+      - title: Unstaging Files
+        id: JEQTyXJ
+        url: 2022/11/08/Unstaging-Files.html
+      - title: Discarding Local Changes
+        id: naOSLEF
+        url: 2022/11/08/Discarding-Local-Changes.html
+      - title: Restoring a File to an Earlier Version
+        id: MEuhGGi
+        url: 2022/11/08/Restoring-a-File-to-an-Earlier-Version.html
+  - title: Browsing History
+    sub:
+      - title: Viewing the History
+        id: vllfSEt
+        url: 2022/11/08/Viewing-the-History.html
+      - title: Filtering the History
+        id: wWDSlpv
+        url: 2022/11/08/Filtering-the-History.html
+      - title: Formatting the Log Output
+        id: oHYesTg
+        url: 2022/11/08/Formatting-the-Log-Output.html
+      - title: Aliases
+        id: NzZpWLe
+        url: 2022/11/08/Aliases.html
+      - title: Viewing a Commit
+        id: qGIrJgY
+        url: 2022/11/08/Viewing-a-Commit-2.html
+      - title: Viewing the Changes Across Commits
+        id: MVrkrpG
+        url: 2022/11/08/Viewing-the-Changes-Across-Commits.html
+      - title: Checking Out a Commit
+        id: EhuglMz
+        url: 2022/11/08/Checking-Out-a-Commit.html
+      - title: Finding Bugs Using Bisect
+        id: NnNZoCF
+        url: 2022/11/08/Finding-Bugs-Using-Bisect.html
+      - title: Finding Contributors Using Shortlog
+        id: zYBeugH
+        url: 2022/11/08/Finding-Contributors-Using-Shortlog.html
+      - title: Viewing the History of a File
+        id: CexwOVx
+        url: 2022/11/08/Viewing-the-History-of-a-File.html
+      - title: Restoring a Deleting File
+        id: ClXNEUA
+        url: 2022/11/08/Restoring-a-Deleting-File.html
+      - title: Finding the Author of Line Using Blame
+        id: VNHeCdP
+        url: 2022/11/08/Finding-the-Author-of-Line-Using-Blame.html
+      - title: Tagging
+        id: JuJnOUB
+        url: 2022/11/09/Tagging.html
+  - title: Branching
+    sub:
+      - title: What are Branches
+        id: orajSvs
+        url: 2022/11/09/What-are-Branches.html
+      - title: Working with Branches
+        id: EXAZFOs
+        url: 2022/11/09/Working-with-Branches.html
+      - title: Comparing Branches
+        id: onoIemc
+        url: 2022/11/11/Comparing-Branches.html
+      - title: Stashing
+        id: DfeDggy
+        url: 2022/11/11/Stashing.html
+      - title: Merging
+        id: soZgnaO
+        url: 2022/11/11/Merging.html
+      - title: Fast-forward Merges
+        id: nqJuVcB
+        url: 2022/11/12/Fast-forward-Merges.html
+      - title: Three-way Merges
+        id: jlTzZVS
+        url: 2022/11/12/Three-way-Merges.html
+      - title: Viewing Merged and Unmerged Branches
+        id: BHRmKjS
+        url: 2022/11/12/Viewing-Merged-and-Unmerged-Branches.html
+      - title: Merge Conflicts
+        id: jvojmvk
+        url: 2022/11/13/Merge-Conflicts.html
+      - title: Graphical Merge Tools
+        id: oNxNOKv
+        url: 2022/11/13/Graphical-Merge-Tools.html
+      - title: Aborting a Merge
+        id: qwxiqnG
+        url: 2022/11/13/Aborting-a-Merge.html
+      - title: Undoing a Faulty Merge
+        id: JlnpPIB
+        url: 2022/11/13/Undoing-a-Faulty-Merge.html
+      - title: Squash Merging
+        id: bdNabcj
+        url: 2022/11/13/Squash-Merging.html
+      - title: Rebasing
+        id: mWfsVDk
+        url: 2022/11/13/Rebasing.html
+      - title: Cherry Picking
+        id: AojxYwQ
+        url: 2022/11/13/Cherry-Picking.html
+      - title: Picking a File from Another Branch
+        id: lGDshFl
+        url: 2022/11/13/Picking-a-File-from-Another-Branch.html
+  - title: Collaboration
+    sub:
+      - title: Workflows
+        id: qpmmlLu
+        url: 2022/11/13/Workflows.html
+      - title: Creating a GitHub Repository
+        id: qpmmlLu
+        url: 2022/11/14/Creating-a-GitHub-Repository.html
+      - title: Adding Collaborators
+        id: qpmmlLu
+        url: 2022/11/14/Adding-Collaborators.html
+      - title: Cloning a Repository
+        id: qpmmlLu
+        url: 2022/11/14/Cloning-a-Repository.html
+      - title: Fetching
+        id: qpmmlLu
+        url: 2022/11/14/Fetching.html
+      - title: Pulling
+        id: qpmmlLu
+        url: 2022/11/14/Pulling.html
+      - title: Pushing
+        id: qpmmlLu
+        url: 2022/11/14/Pushing.html
+      - title: Storing Credentials
+        id: qpmmlLu
+        url: 2022/11/15/Storing-Credentials.html
+      - title: Sharing Tags
+        id: qpmmlLu
+        url: 2022/11/15/Sharing-Tags.html
+      - title: Releases
+        id: qpmmlLu
+        url: 2022/11/15/Releases.html
+      - title: Sharing Branches
+        id: qpmmlLu
+        url: 2022/11/15/Sharing-Branches.html
+      - title: Collaboration Workflow
+        id: qpmmlLu
+        url: 2022/11/15/Collaboration-Workflow.html
+      - title: Pull Requests
+        id: qpmmlLu
+        url: 2022/11/19/Pull-Requests.html
+      - title: Resolving Conflicts
+        id: qpmmlLu
+        url: 2022/11/22/Resolving-Conflicts.html
